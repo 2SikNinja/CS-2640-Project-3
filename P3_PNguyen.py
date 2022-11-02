@@ -2,15 +2,6 @@
 #Assignment: Project #3
 #Completed (or last revision): 11/01/2022
 
-# from wordcloud import WordCloud, STOPWORDS
-# import matplotlib.pyplot as plt
-# userInputOpenFile = input("Please enter the file you would like to open to make a word cloud: ")
-# #task 1
-
-#Authors: Peter Nguyen
-#Assignment: Project #3
-#Completed (or last revision): 11/01/2022
-
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
